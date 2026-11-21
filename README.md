@@ -46,7 +46,6 @@ A local personal AI assistant powered by Ollama, with permanent memory, multi-co
 
 ## Available Commands
 
-+------------------+------------------------------------+
 | Command          | Description                        |
 | ---------------- | ---------------------------------- |
 | /new TITLE       | Create a new conversation          |
@@ -64,7 +63,6 @@ A local personal AI assistant powered by Ollama, with permanent memory, multi-co
 | /paste           | Enter multi-line mode              |
 | /help            | Show help                          |
 | /exit            | Exit                               |
-+------------------+------------------------------------+
 
 ## Examples
 
