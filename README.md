@@ -10,6 +10,7 @@ A local personal AI assistant powered by Ollama, with permanent memory, multi-co
 - **Web Page Reader**: Analyze the content of any webpage
 - **Semantic Memory Search**: Find relevant past conversations using embeddings
 - **Lightweight Model**: Designed to work well with small models like `qwen3.5:0.8b`
+- **Better Results**: For better results, run it with a model like `qwen3.5:4b` or larger.
 
 ## Requirements
 
