@@ -99,6 +99,7 @@ TOP_K, HISTORY_LIMIT, FACT_LIMIT: Memory and history settings
 ## Database
 
 The script creates a local SQLite database (qwen3.5:0.8b.db by default) that stores:
+
 Messages
 
 Permanent facts
