@@ -89,8 +89,11 @@ Embeddings: Uses nomic-embed-text to find semantically similar past messages.
 You can modify the following variables at the top of the script:
 
 MODEL: The Ollama model used for chat
+
 EMBED_MODEL: The embedding model
+
 DB: Path to the SQLite database
+
 TOP_K, HISTORY_LIMIT, FACT_LIMIT: Memory and history settings
 
 ## Database
