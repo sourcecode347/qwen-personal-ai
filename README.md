@@ -13,29 +13,29 @@ A local personal AI assistant powered by Ollama, with permanent memory, multi-co
 
 ## Requirements
 
-- Python 3.10+
-- [Ollama](https://ollama.com/) installed and running
-- Models:
+  - Python 3.10+
+  - [Ollama](https://ollama.com/) installed and running
+  - Models:
   - Chat model: `qwen3.5:0.8b` (or any other Ollama model)
   - Embedding model: `nomic-embed-text`
 
 ## Installation
 
-1. Clone the repository:
+## 1. Clone the repository:
 
     git clone https://github.com/sourcecode347/qwen-personal-ai.git
     cd qwen-personal-ai
 
-2. Setup Python Virtual Environment 
+## 2. Setup Python Virtual Environment 
 
     python -m venv venv
     source venv/bin/activate
 
-3. Install dependencies
+## 3. Install dependencies
 
     pip install requests numpy beautifulsoup4 lxml duckduckgo-search
 
-4. Pull the required models with Ollama
+## 4. Pull the required models with Ollama
 
     ollama pull qwen3.5:0.8b
     ollama pull nomic-embed-text
